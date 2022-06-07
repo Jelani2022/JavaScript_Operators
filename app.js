@@ -5,6 +5,12 @@ console.log(
 
 // Exercise 1
 console.log("EXERCISE 1:\n==========\n");
+let a = 20
+let b = 4
+let add = a + b
+let minus = a - b
+let multiply = a * b
+let dividing = a / b
 
 // YOUR CODE HERE
 
