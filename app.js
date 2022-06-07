@@ -5,20 +5,24 @@ console.log(
 
 // Exercise 1
 console.log("EXERCISE 1:\n==========\n");
+
+// YOUR CODE HERE
 let a = 20
 let b = 4
 let add = a + b
 let minus = a - b
 let multiply = a * b
 let dividing = a / b
-
-// YOUR CODE HERE
-
 // Exercise 2
 console.log("EXERCISE 2:\n==========\n");
 
 // YOUR CODE HERE
-
+let num = 11;
+let str = "11";
+let str2="eleven";
+let isPresent = true;
+let firstName = "frodo";
+let lastName = "Baggins";
 // Exercise 3
 console.log("EXERCISE 3:\n==========\n");
 
