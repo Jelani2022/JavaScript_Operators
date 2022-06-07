@@ -27,3 +27,7 @@ let lastName = "Baggins";
 console.log("EXERCISE 3:\n==========\n");
 
 // YOUR CODE HERE
+let val = 5;
+str = "5";
+str2 = "five";
+isPresent = false
